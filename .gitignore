@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Google Cloud credentials
+google-cloud-key.json
+service-account-file.json
+firebase-credentials.json
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/

@@ -1,0 +1,72 @@
+{
+  "app": {
+    "title": "Document Intelligence",
+    "subtitle": "Upload, analyze, and get insights from your PDF documents with AI-powered analysis"
+  },
+  "upload": {
+    "title": "Upload PDF Document",
+    "processing": "Processing Document...",
+    "dragDrop": "Drag & drop your PDF file here, or click to browse",
+    "analyzing": "Analyzing your document for insights and risks",
+    "chooseFile": "Choose File"
+  },
+  "analysis": {
+    "healthScore": "Document Health Score",
+    "exportPdf": "Export PDF",
+    "exporting": "Exporting...",
+    "excellent": "Excellent",
+    "good": "Good",
+    "needsAttention": "Needs Attention",
+    "riskAssessment": "Risk Assessment",
+    "noRisks": "No significant risks detected in this document.",
+    "originalText": "Original Text",
+    "simplifiedSummary": "Simplified Summary"
+  },
+  "qa": {
+    "title": "Ask Questions About Your Document",
+    "placeholder": "Ask a question about your document...",
+    "emptyState": "Ask questions to get detailed insights about your document."
+  },
+  "translation": {
+    "title": "Translation",
+    "sourceText": "Source Text",
+    "placeholder": "Enter text to translate...",
+    "selectLanguage": "Select target language",
+    "translate": "Translate",
+    "translatedText": "Translated Text",
+    "emptyState": "Select a language and click translate to see the results."
+  },
+  "tabs": {
+    "analysis": "Analysis",
+    "qa": "Q&A",
+    "translate": "Translate",
+    "newDoc": "New Doc"
+  },
+  "languages": {
+    "spanish": "Spanish",
+    "french": "French",
+    "german": "German",
+    "italian": "Italian",
+    "portuguese": "Portuguese",
+    "russian": "Russian",
+    "japanese": "Japanese",
+    "korean": "Korean",
+    "chinese": "Chinese (Simplified)",
+    "arabic": "Arabic",
+    "hindi": "Hindi",
+    "dutch": "Dutch",
+    "swedish": "Swedish",
+    "norwegian": "Norwegian",
+    "danish": "Danish"
+  },
+  "toast": {
+    "processSuccess": "Document Processed Successfully",
+    "processSuccessDesc": "Health Score: {{score}}/100",
+    "processFailed": "Processing Failed",
+    "processFailedDesc": "Failed to process the document. Please try again.",
+    "exportSuccess": "Export Successful",
+    "exportSuccessDesc": "Analysis report has been downloaded.",
+    "exportFailed": "Export Failed",
+    "exportFailedDesc": "Failed to export the analysis. Please try again."
+  }
+}

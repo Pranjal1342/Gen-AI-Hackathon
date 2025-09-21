@@ -1,0 +1,72 @@
+{
+  "app": {
+    "title": "Inteligencia de Documentos",
+    "subtitle": "Carga, analiza y obtén información de tus documentos PDF con análisis impulsado por IA"
+  },
+  "upload": {
+    "title": "Subir Documento PDF",
+    "processing": "Procesando Documento...",
+    "dragDrop": "Arrastra y suelta tu archivo PDF aquí, o haz clic para buscar",
+    "analyzing": "Analizando tu documento para obtener información y riesgos",
+    "chooseFile": "Elegir Archivo"
+  },
+  "analysis": {
+    "healthScore": "Puntuación de Salud del Documento",
+    "exportPdf": "Exportar PDF",
+    "exporting": "Exportando...",
+    "excellent": "Excelente",
+    "good": "Bueno",
+    "needsAttention": "Necesita Atención",
+    "riskAssessment": "Evaluación de Riesgos",
+    "noRisks": "No se detectaron riesgos significativos en este documento.",
+    "originalText": "Texto Original",
+    "simplifiedSummary": "Resumen Simplificado"
+  },
+  "qa": {
+    "title": "Haz Preguntas Sobre Tu Documento",
+    "placeholder": "Haz una pregunta sobre tu documento...",
+    "emptyState": "Haz preguntas para obtener información detallada sobre tu documento."
+  },
+  "translation": {
+    "title": "Traducción",
+    "sourceText": "Texto de Origen",
+    "placeholder": "Ingresa el texto a traducir...",
+    "selectLanguage": "Seleccionar idioma de destino",
+    "translate": "Traducir",
+    "translatedText": "Texto Traducido",
+    "emptyState": "Selecciona un idioma y haz clic en traducir para ver los resultados."
+  },
+  "tabs": {
+    "analysis": "Análisis",
+    "qa": "P&R",
+    "translate": "Traducir",
+    "newDoc": "Nuevo Doc"
+  },
+  "languages": {
+    "spanish": "Español",
+    "french": "Francés",
+    "german": "Alemán",
+    "italian": "Italiano",
+    "portuguese": "Portugués",
+    "russian": "Ruso",
+    "japanese": "Japonés",
+    "korean": "Coreano",
+    "chinese": "Chino (Simplificado)",
+    "arabic": "Árabe",
+    "hindi": "Hindi",
+    "dutch": "Holandés",
+    "swedish": "Sueco",
+    "norwegian": "Noruego",
+    "danish": "Danés"
+  },
+  "toast": {
+    "processSuccess": "Documento Procesado Exitosamente",
+    "processSuccessDesc": "Puntuación de Salud: {{score}}/100",
+    "processFailed": "Procesamiento Fallido",
+    "processFailedDesc": "No se pudo procesar el documento. Por favor, inténtalo de nuevo.",
+    "exportSuccess": "Exportación Exitosa",
+    "exportSuccessDesc": "El reporte de análisis ha sido descargado.",
+    "exportFailed": "Exportación Fallida",
+    "exportFailedDesc": "No se pudo exportar el análisis. Por favor, inténtalo de nuevo."
+  }
+}

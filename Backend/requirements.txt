@@ -1,13 +1,21 @@
 # Backend requirements
 fastapi
 uvicorn
+faiss-cpu
+langchain
+python-multipart
+requests
 gunicorn # For production deployment
 PyMuPDF
 python-dotenv
+google-cloud-firestore
+google-cloud-storage
 google-cloud-translate
+google-cloud-vision
 reportlab
 firebase-admin
 google-generativeai
 networkx
 firebase-admin
 python-dotenv
+
